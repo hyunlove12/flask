@@ -6,7 +6,7 @@ class AssemblyCrawler:
         self.param = param
 
     def scrap(self):
-        html = url.urlopen(self.param).read(0)
+        html = url.urlopen(self.param).read()
         soup = BeautifulSoup(html, 'html.parser')
         txt = soup.find(id="summaryContentDiv").text
         print(txt)
