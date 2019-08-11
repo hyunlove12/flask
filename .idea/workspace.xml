@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4b15279-eaad-4f3e-889b-fce431cdecc1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/webcrawl/naverLogin.py" beforeDir="false" afterPath="$PROJECT_DIR$/webcrawl/naverLogin.py" afterDir="false" />
-    </list>
+    <list default="true" id="c4b15279-eaad-4f3e-889b-fce431cdecc1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +71,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="1938" />
